@@ -1,1 +1,3 @@
 # hello-world
+
+When Hegel was binding the history of the world to the history of European national self-identity, it was assumed among his public that the age of the planet could be measured in a few millennia (1e3 or 1e4 years), not aeons (1e9 years). The fabrication of social memory and the intuition of planetary duration were thought to operate in closely-paired natural rhythms. While the deep time of the genomic and geologic record shows that that they do not, the illusion of their contemporaneity also brought dark consequences that, strangely enough, would actualize that exact same illusion.
